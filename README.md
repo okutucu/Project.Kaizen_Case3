@@ -5,6 +5,8 @@ Projemizde Console uygulaması kullanılmıştır.
 
 Gelen  json veriyi c# ile parse edip amaçlanan çıktıya ulaşmamız gerekmektedir.
 
+ÖNEMLİ NOT: Json verimiz  "txt" uzantılı dosya olarak masaüstünden okunmuştur. 
+
 DİP NOT: Ürettiğim çıktı amaçlanan çıktı ile yakın bir uyuma sahiptir. Aynı değildir !!! (Amaçlanan çıktıya ulaşılamamıştır.) 
 
 
